@@ -1,2 +1,2 @@
 # HackRank
-Hacker Rank solved challanges
+Hacker Rank solved challenges
